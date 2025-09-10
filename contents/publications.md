@@ -4,13 +4,13 @@
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Robust Change-point Detection for DNA Copy Number Data Analysis. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- S. Jia, and <strong>M. Gao* </strong> (2025). A New Genomic Waves Adjustment Method for DNA Copy Number Variation Detection. <strong>IEEE Transactions on Computational Biology and Bioinformatics</strong>, 22(3), 1222-1233.
+  
+- C. Zhang, <strong>M. Gao</strong>, and S. Jia (2024). DAG-informed Structure Learning from Multi-dimensional Point Processes. <strong>The Journal of Machine Learning Research</strong>, 25(352), 1-56.
+- 
+- <strong>M. Gao</strong>, C. Zhang, and J. Zhou (2024). Learning Network-structured Dependence from Non-stationary Multivariate Point Process Data. <strong>IEEE Transactions on Information Theory</strong>, 70(8), 5935-5968. 
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- C. Zhang, Y. Chai, X. Guo, <strong>M. Gao</strong>, D. Devilbiss, and Z. Zhang (2016). Statistical Learning of Functional Connectivity. <strong>Technometrics</strong>, 58, 350-359. 
 
