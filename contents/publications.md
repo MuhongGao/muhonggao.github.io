@@ -1,7 +1,3 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
 - S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Robust Change-point Detection for DNA Copy Number Data Analysis. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
