@@ -14,7 +14,7 @@ B.S., Statistics, Peking University, Beijing, China, 2011—2015.
 
 #### Working Experience
 Postdoc researcher, Academy of Mathematics and System Science, Chinese Academy of Sciences, Beijing, China, 2022-2025.\
-Assistant professor, School of Statistics, University of International Business and Economics, 2025-present.
+Assistant professor, School of Statistics, University of International Business and Economics, Beijing, China, 2025-present.
 
 
 #### Research Interests
