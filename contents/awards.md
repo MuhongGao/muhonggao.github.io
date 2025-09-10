@@ -1,16 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Guozhi Xu Postdoctoral Research Award Fund, AMSS, Chinese Academy of Sciences, 2025.
 
-- National Scholarship for Graduate Student, 2024.
+- ICSA Excellent Junior Researcher Award, 12th International Conference of ICSA, Hong Kong, 2023
+  
+- Third Place in Student Poster Competition, NIC-ASA and ICSA Midwest Joint Meeting, Chicago, 2019.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Finalist Award in Mathematical Contest in Modeling (MCM), 2013.
 
-- First-Prize Scholarship (CUMT), 2023.
+- Tung OOCL Scholarship, Peking University, 2013.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- First Prize in 29th China National College Students Physics Competition, China, 2013.
