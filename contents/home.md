@@ -9,9 +9,10 @@ Muhong Gao is currently an Assistant Professor in the School of Statistics at Un
 Email: gaomh[at]amss.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Statistics, University of Wisconsin Madison, USA, 2015—2022.\
+B.S., Statistics, Peking University, Beijing, China, 2011—2015.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Statistical Learning, Correlation analysis, Information theory.
+
 
