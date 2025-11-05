@@ -1,6 +1,6 @@
-#### Published
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/88d232b2-aeb6-4357-a72e-d79ecdd059cf" />#### Published
 
-- S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Robust Change-point Detection for DNA Copy Number Data Analysis. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
+- S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Jump Detection with Dependent Wild Bootstrap. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
 
 - S. Jia, and <strong>M. Gao* </strong> (2025). A New Genomic Waves Adjustment Method for DNA Copy Number Variation Detection. <strong>IEEE Transactions on Computational Biology and Bioinformatics</strong>, 22(3), 1222-1233.
   
