@@ -3,7 +3,7 @@ Muhong Gao is currently an Assistant Professor in the School of Statistics at Un
 
 #### Contact
 
-Email: gaomh[at]amss.ac.cn
+Email: gaomh[at]uibe.edu.cn
 
 #### Education
 Ph.D., Statistics, <strong>University of Wisconsin Madison</strong>, USA, 2015—2022.\
