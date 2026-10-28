@@ -1,6 +1,6 @@
 - <strong>M. Gao</strong>, F. Han, and Q. Li (2026+). Limit Theorems of Azadkia-Chatterjee’s Conditional Graph Correlation. [[arXiv]](https://arxiv.org/abs/2606.15433)
 
-- <strong>M. Gao</strong>, and Q. Li (2026). A Family of Chatterjee's Correlation Coefficients. <strong>Statistica Sinica</strong> (Accepted) [[arXiv]](https://arxiv.org/abs/2403.17670)
+- <strong>M. Gao</strong>, and Q. Li (2026). A Family of Chatterjee's Correlation Coefficients. <strong>Statistica Sinica</strong> (Accepted). [[arXiv]](https://arxiv.org/abs/2403.17670)
 
 - S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Jump Detection with Dependent Wild Bootstrap. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
 
