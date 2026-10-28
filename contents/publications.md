@@ -2,7 +2,7 @@
 
 - <strong>M. Gao</strong>, and Q. Li (2026). A Family of Chatterjee's Correlation Coefficients. <strong>Statistica Sinica</strong> (Accepted). [[arXiv]](https://arxiv.org/abs/2403.17670)
 
-- S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Jump Detection with Dependent Wild Bootstrap. <strong>Journal of Nonparametric Statistics</strong> (Published online). 
+- S. Jia, <strong>M. Gao* </strong>, and X. Chen (2025). Jump Detection with Dependent Wild Bootstrap. <strong>Journal of Nonparametric Statistics</strong>, 38(3), 876-894. 
 
 - S. Jia, and <strong>M. Gao* </strong> (2025). A New Genomic Waves Adjustment Method for DNA Copy Number Variation Detection. <strong>IEEE Transactions on Computational Biology and Bioinformatics</strong>, 22(3), 1222-1233.
   
