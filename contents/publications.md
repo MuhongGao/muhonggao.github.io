@@ -1,6 +1,6 @@
 - <strong>M. Gao</strong>, F. Han, and Q. Li (2026+). Limit Theorems of Azadkia-Chatterjee’s Conditional Graph Correlation. [[arXiv]](https://arxiv.org/abs/2606.15433)
 
-- <strong>M. Gao</strong>, and Q. Li (2026). A Family of Chatterjee's Correlation Coefficients. <strong>Statistica Sinica</strong> (Accepted). [[arXiv]](https://arxiv.org/abs/2403.17670)
+- <strong>M. Gao</strong>, and Q. Li (2026). A Family of Chatterjee's Correlation Coefficients and Their Properties. <strong>Statistica Sinica</strong> (Accepted). [[arXiv]](https://arxiv.org/abs/2403.17670)
 
 - <strong>M. Gao</strong>, and C. Zhang (2026). A Multi-lag Generative Model and Inference for Long-term Dependencies in Temporal Point Processes. <strong>Electric Journal of Statistics</strong> (Accepted).
 
